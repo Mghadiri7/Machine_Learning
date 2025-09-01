@@ -12,3 +12,4 @@ It is designed for learning, practicing, and understanding the foundations of ML
 - ⚡ **Support Vector Machine (SVM)** – margin-based classifier
 - 🎯 **K-Means Clustering** – unsupervised learning
 - ⏳ **Time Series Analysis** – forecasting and sequential modeling
+- 🧰 **Feature Selection (Hill-Climbing)** – greedy search over subsets
